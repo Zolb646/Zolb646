@@ -50,12 +50,12 @@ I'm a junior software engineer building full-stack web and mobile products with 
 - Contributed to camera-based detection, learning, and practice flows using MediaPipe and dataset handling
 - Worked across full-stack product features with Next.js, React, GraphQL, Prisma, and PostgreSQL
 
-## GitHub stats
+## GitHub
 
-![Zolb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zolb646&show_icons=true&theme=transparent&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolb646&layout=compact&theme=transparent&hide_border=true)
+- Profile: [github.com/Zolb646](https://github.com/Zolb646)
+- Repositories: [github.com/Zolb646?tab=repositories](https://github.com/Zolb646?tab=repositories)
+- Contributions: [github.com/Zolb646?tab=overview](https://github.com/Zolb646?tab=overview)
 
 ---
 
-Thanks for visiting my profile.
+<p align="center">Thanks for visiting my profile.</p>
