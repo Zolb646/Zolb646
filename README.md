@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy.gif" alt="Fun animation" width="420" />
+  <img src="./assets/fun.gif" alt="Fun animation" width="420" />
 </div>
 
 # Hi, I'm Zolbayar Byambajav
