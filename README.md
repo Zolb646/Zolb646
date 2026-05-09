@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="420" />
+</div>
+
 # Hi, I'm Zolbayar Byambajav
 
 I'm a junior software engineer building full-stack web and mobile products with React, React Native, TypeScript, and Node.js.
