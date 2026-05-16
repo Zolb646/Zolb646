@@ -34,27 +34,12 @@ I'm a junior software engineer building full-stack web and mobile products with 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Skills
-
-- Frontend: React, Next.js, React Native, Expo, HTML, CSS, responsive UI
-- Backend: Node.js, REST APIs, GraphQL, Apollo Server
-- Databases: PostgreSQL, MongoDB, MySQL, Prisma
-- Testing: Jest, unit tests, integration tests, e2e testing
-- Platforms: Supabase, Firebase, Cloudflare Workers
-- Tools: Git, Docker, CI/CD
-- AI and media: MediaPipe, camera detection, landmark processing, dataset integration
 
 ## Highlights
 
 - Built a 2nd-place PineQuest S3 Hackathon project: an AI-powered LMS exam platform with mobile proctoring, real-time cheat alerts, PDF question extraction, and teacher/student workflows
 - Contributed to camera-based detection, learning, and practice flows using MediaPipe and dataset handling
 - Worked across full-stack product features with Next.js, React, GraphQL, Prisma, and PostgreSQL
-
-## GitHub
-
-- Profile: [github.com/Zolb646](https://github.com/Zolb646)
-- Repositories: [github.com/Zolb646?tab=repositories](https://github.com/Zolb646?tab=repositories)
-- Contributions: [github.com/Zolb646?tab=overview](https://github.com/Zolb646?tab=overview)
 
 ---
 
