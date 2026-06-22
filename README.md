@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/fun.gif" alt="Fun animation" width="420" />
+  <img src="./assets/gif.gif" alt="Fun animation" width="420" />
 </div>
 
 # Hi, I'm Zolbayar Byambajav
